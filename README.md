@@ -55,7 +55,10 @@ Input parameters are wrong.
 ```
 
 ## Execution
-1. Using the command line, go to the project directory and execute the following command:
+1. Using the command line, go to the project directory and execute the following commands:
+```bash
+composer install
+```
 ```bash
 php Main.php
 ```
